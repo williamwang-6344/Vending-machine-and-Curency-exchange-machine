@@ -1,0 +1,129 @@
+[
+  {
+    "category": "Drinks",
+    "products": [
+      {
+        "item_code": 1001,
+        "item_price": 3.5,
+        "item_name": "Mineral Water",
+        "item_quantity": 7
+      },
+      {
+        "item_code": 1002,
+        "item_price": 4.5,
+        "item_name": "Sprite",
+        "item_quantity": 7
+      },
+      {
+        "item_code": 1003,
+        "item_price": 4.5,
+        "item_name": "Coca cola",
+        "item_quantity": 7
+      },
+      {
+        "item_code": 1004,
+        "item_price": 5.0,
+        "item_name": "Pepsi",
+        "item_quantity": 2
+      },
+      {
+        "item_code": 1010,
+        "item_price": 10.0,
+        "item_name": "pp",
+        "item_quantity": 0
+      }
+    ]
+  },
+  {
+    "category": "Chocolates",
+    "products": [
+      {
+        "item_code": 2001,
+        "item_price": 3.5,
+        "item_name": "Mars",
+        "item_quantity": 7
+      },
+      {
+        "item_code": 2002,
+        "item_price": 2.5,
+        "item_name": "M&M",
+        "item_quantity": 7
+      },
+      {
+        "item_code": 2003,
+        "item_price": 4.5,
+        "item_name": "Bounty",
+        "item_quantity": 7
+      },
+      {
+        "item_code": 2004,
+        "item_price": 5,
+        "item_name": "Snickers",
+        "item_quantity": 7
+      }
+    ]
+  },
+  {
+    "category": "Chips",
+    "products": [
+      {
+        "item_code": 3001,
+        "item_price": 3.5,
+        "item_name": "Smiths",
+        "item_quantity": 7
+      },
+      {
+        "item_code": 3002,
+        "item_price": 4.5,
+        "item_name": "Pringles",
+        "item_quantity": 7
+      },
+      {
+        "item_code": 3003,
+        "item_price": 4.5,
+        "item_name": "Kettle",
+        "item_quantity": 7
+      },
+      {
+        "item_code": 3004,
+        "item_price": 5,
+        "item_name": "Thins",
+        "item_quantity": 7
+      }
+    ]
+  },
+  {
+    "category": "Candies",
+    "products": [
+      {
+        "item_code": 4001,
+        "item_price": 3.5,
+        "item_name": "Mentos",
+        "item_quantity": 7
+      },
+      {
+        "item_code": 4002,
+        "item_price": 4.5,
+        "item_name": "Sour Patch",
+        "item_quantity": 7
+      },
+      {
+        "item_code": 4003,
+        "item_price": 2.5,
+        "item_name": "Skittles",
+        "item_quantity": 7
+      }
+    ]
+  },
+  {
+    "category": "pp",
+    "products": [
+      {
+        "item_code": 1009,
+        "item_price": 10.0,
+        "item_name": "pp",
+        "item_quantity": 10
+      }
+    ]
+  }
+]
